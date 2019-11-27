@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Magnet Sites",
+    "name": "Cheapsite",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -52,11 +52,12 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": "http://cheapsite.co.za",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
